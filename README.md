@@ -1,6 +1,6 @@
-# Cyber Security Rules — UK PSTI (AP01 Pro)
+# Cyber Security Rules — UK PSTI 
 
-> Product security vulnerability disclosure policy and minimum security update period for the **Momcozy Cozy Breath Air Purifier (AP01 Pro)**, in accordance with the UK Product Security and Telecommunications Infrastructure (PSTI) regime.
+> Product security vulnerability disclosure policy and minimum security update period , in accordance with the UK Product Security and Telecommunications Infrastructure (PSTI) regime.
 
 ---
 
@@ -64,13 +64,14 @@ The minimum security update period for the products below is **actively maintain
 
 | Models      | Versions | Description                |
 |-------------|----------|----------------------------|
-| AP01 Pro    | V1.0     | Cozy Breath Air Purifier   |
-| Momcozy App | N/A      | The minimum security update period for WN05 is actively maintained with security updates from August 2026 to August 2029. |
-
+| AP01 Pro    | V1.0     | Momcozy Cozy Breath Air Purifier   |
+| WN05        | V1.0     | Momcozy White Noise Machine   |
+| BM04S       | V1.0     | Momcozy baby monito   |
+| T3          | V1.0     | Momcozy Cozylink for Wearable Digital Thermometer   |
+| Momcozy App | N/A      | The minimum security update period is actively maintained with security updates from August 2026 to August 2029. |
 \* *This list is constantly being updated and subject to change without notice.*
 
 ---
-
 ## Contact
 
 - **Security reports:** support@momcozy.com
