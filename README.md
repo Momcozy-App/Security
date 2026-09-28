@@ -60,7 +60,7 @@ Momcozy will issue a security advisory when one or more of the following conditi
 
 ## Information on Minimum Security Update Periods
 
-The minimum security update period for the products below is **actively maintained with security updates from August 2026 to August 2029**.
+The minimum security update period for the products below is **actively maintained with security updates from 1 August 2026 to 31 August 2029**.
 
 | Models      | Versions | Description                |
 |-------------|----------|----------------------------|
@@ -68,7 +68,7 @@ The minimum security update period for the products below is **actively maintain
 | WN05        | V1.0     | Momcozy White Noise Machine   |
 | BM04S   | V1.0     | Momcozy baby monitor  |
 | T3   | V1.0     | Momcozy Cozylink for Wearable Digital Thermometer   |
-| Momcozy App | N/A      | The minimum security update period is actively maintained with security updates from August 2026 to August 2029. |
+| Momcozy App | N/A      | The minimum security update period is actively maintained with security updates from 1 August 2026 to 31 August 2029. |
 
 \* *This list is constantly being updated and subject to change without notice.*
 
